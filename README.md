@@ -26,7 +26,6 @@ This project explores historical stock data of **Netflix (NFLX)** through data a
 - Time-series forecasting using:
   - Linear Regression
   - Decision Tree Regressor
-  - (Optional: ARIMA / LSTM if implemented)
 - Evaluation using RMSE, MAE, and R² metrics
 
 
