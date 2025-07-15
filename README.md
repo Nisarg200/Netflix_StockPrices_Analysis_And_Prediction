@@ -29,9 +29,4 @@ This project explores historical stock data of **Netflix (NFLX)** through data a
   - (Optional: ARIMA / LSTM if implemented)
 - Evaluation using RMSE, MAE, and R² metrics
 
-## 📈 Sample Visualizations
-
-*Insert your screenshots or graphs here (e.g., line plots, prediction vs actuals, etc.)*
-
-## 📂 Folder Structure
 
